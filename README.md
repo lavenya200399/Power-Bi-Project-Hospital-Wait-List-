@@ -6,7 +6,9 @@ This project analyzes hospital wait list data over a period from January 2018 to
 
 ## Key Features
 
-## Monthly Trend Analysis: Insights into the growth or decline in hospital waitlists over time.
+![Dasboard Overview](https://github.com/lavenya200399/Power-Bi-Project-Hospital-Wait-List-/blob/main/dashboard-2.png)
+
+Monthly Trend Analysis: Insights into the growth or decline in hospital waitlists over time.
 Case Type Breakdown: Separation of data into Outpatient, Day Case, and Inpatient categories.
 
 Time Band Analysis: Classification of patient waiting times into different bands, including 0-3 months, 3-6 months, up to 18+ months.
