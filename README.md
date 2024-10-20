@@ -2,7 +2,7 @@
 This project analyzes hospital wait list data over a period from January 2018 to March 2021, focusing on case types, specialties, and patient age profiles. The dataset contains details about inpatient, outpatient, and day-case categories, tracking the waiting times and key metrics across different time bands and specialties.
 
 # Dashboard
-https://github.com/lavenya200399/Power-Bi-Project-Hospital-Wait-List-/blob/main/hospital%20wait%20list%20dashboard%20.png
+![Dashboard Overview](https://github.com/lavenya200399/Power-Bi-Project-Hospital-Wait-List-/blob/main/hospital%20wait%20list%20dashboard%20.png)
 
 ## Key Features
 
